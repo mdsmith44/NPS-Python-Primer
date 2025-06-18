@@ -72,8 +72,6 @@ Recommend using the [Anaconda Distrubtion](https://www.anaconda.com/download) on
   - [Labeling Plots](#Labeling-Plots)
 - [Plotting with Pandas](#Plotting-with-Pandas)
   - [Pandas Plotting Overview](#Plotting-with-Pandas)
-  - [Example: Plotting GFEBS Data](#Example:-Plotting-GFEBS-Data)
 - [Seaborn](#Seaborn)
 - [Interactive Graphics with Bokeh](#Interactive-Graphics-with-Bokeh)
-  - [Example: COVID19 Dashboard](#Example:-COVID19-Dashboard)
 - [Making GIFs](#Making-GIFs)
