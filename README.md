@@ -1,6 +1,6 @@
 # NPS Python Primer
 
-<img src='Images/NPS_Logo.jpg' height=150/>
+<img src='Images/nps_python_logo.png' height=150/>
 Matt Smith, NPS Opertaions Research Department, https://nps.edu/web/or.
 Email: matthew.smith@nps.edu
 
